@@ -13,7 +13,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="assets/profile.png" alt="Ashwini Hegde" width="120" style="border-radius: 50%; border: 2px solid #555;"/>
+  <img src="image.jpg" alt="Ashwini Hegde" width="200" style="border-radius: 50%; border: 2px solid #555;"/>
 </p>
 
 
