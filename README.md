@@ -12,15 +12,11 @@
 </h2>
 
 
-
-
-
-
 <!-- ====== Quick About ====== -->
 ## 👨‍💻 About Me
 - 🎓 Computer Science student specializing in **Data Science**
-- 🚀 Enthusiastic learner exploring emerging technologies and expanding knowledge in **software development, AI, ML, and data-driven solutions**
-- 💡 Motivated, adaptable, and committed to continuous growth with a focus on building **innovative solutions**
+- 💻 Developing practical skills in **software development, AI, ML, and data-driven solutions**
+- 📈 Open to learning and improving through **projects and collaboration**
 
 ---
 
