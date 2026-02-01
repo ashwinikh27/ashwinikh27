@@ -4,7 +4,7 @@
      ========================= -->
 
 <h1 align="center" style="font-size: 3rem; margin-bottom: 0.2em;">
-  Hi 👋, I'm <strong>Ashwini Hegde</strong>
+  Hey there! I'm <strong>Ashwini Hegde</strong>
 </h1>
 
 <h2 align="center" style="font-size: 2rem; margin-bottom: 0.5em; color: #555;">
