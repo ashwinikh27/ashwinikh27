@@ -14,9 +14,9 @@
 
 <!-- ====== Quick About ====== -->
 ## 👨‍💻 About Me
-- 🎓 Computer Science student specializing in **Data Science**
-- 💻 Developing practical skills in **software development, AI, ML, and data-driven solutions**
-- 📈 Open to learning and improving through **projects and collaboration**
+- Computer Science student specializing in **Data Science**
+- Developing practical skills in **software development and data-driven solutions**
+- Open to learning and improving through **projects and collaboration**
 
 ---
 
