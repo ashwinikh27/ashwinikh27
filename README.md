@@ -1,24 +1,23 @@
-<!-- =========================
-     Banner (optional)
-     Upload a banner to assets/banner.png or remove this block
-     ========================= -->
+<h1 align="center">Hi 👋, I'm Ashwini Hegde</h1>
+<h3 align="center">Final Year CSE (Data Science) Student</h3>
 
-<h1 align="center" style="font-size: 3rem; margin-bottom: 0.2em;">
-  Hey there! I'm <strong>Ashwini Hegde</strong>
-</h1>
-
-<h2 align="center" style="font-size: 2rem; margin-bottom: 0.5em; color: #555;">
-  Final Year CSE (Data Science) Student
-</h2>
-
-
-<!-- ====== Quick About ====== -->
-## 👨‍💻 About Me
-- Computer Science student specializing in **Data Science**
-- Developing practical skills in **software development and data-driven solutions**
-- Open to learning and improving through **projects and collaboration**
+<p align="center">
+💼 Actively seeking <b>entry-level opportunities</b> in <b>Software Development</b>, <b>Full-Stack (MERN)</b>, and <b>Data Analytics</b>.
+</p>
 
 ---
+
+## 👨‍💻 About Me
+
+*  Final year **Computer Science (Data Science)** student.
+*  Interested in **software development, full-stack web applications, and data-driven problem solving**.
+*  Enjoy building **practical projects and continuously improving through hands-on learning**.
+*  Open to learning through **projects, collaboration, and real-world development opportunities**.
+
+
+---
+
+
 
 <!-- ====== Skills section ====== -->
 ## 🛠 Tech Stack
