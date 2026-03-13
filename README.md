@@ -2,10 +2,9 @@
 <h3 align="center">Final Year CSE (Data Science) Student</h3>
 
 <p align="center">
-💼 Actively seeking <b>entry-level opportunities</b> in <b>Software Development</b>, <b>Full-Stack (MERN)</b>, and <b>Data Analytics</b>.
+💼 Actively seeking <b>entry-level opportunities</b> in <b>Full-Stack (MERN)</b> and <b>Software Development</b>, with additional interest in <b>Data Analytics</b>.
 </p>
 
----
 
 ## 👨‍💻 About Me
 
